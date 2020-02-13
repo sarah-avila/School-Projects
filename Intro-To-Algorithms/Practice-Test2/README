@@ -1,0 +1,9 @@
+// --------------------------
+// README for Practice-Test2
+// --------------------------
+
+In stackrecursion.cpp:
+
+allAnagrams(): Prints all of the anagrams of a given string
+language(): Prints the set of all strings comprising of the characters in a given string
+stretch(): Given an integer k, prints all strings by repeating each character in order up to k times
