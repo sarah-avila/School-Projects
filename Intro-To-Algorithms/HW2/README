@@ -3,11 +3,9 @@
 // --------------------------------------
 
 Files to be submitted:
-nqueens.cpp
+nqueens.cpp: Finds a solution (if applicable) for the n-Queens problem using a 2D array and a stack 
 Makefile
 README
 
 Further Notes:
-I discussed the logic behind the n-queens problem with Tom Cannon and
-parsing integers with Nicholas Tee. I also looked at an old assignment
-when I wrote similar code for CSE15 with Professor Tantalo (Fall 2019).
+None
