@@ -3,7 +3,7 @@
 #------------------------------------
 
 Files being submitted:
-- SortStrings.c
+- SortStrings.c: Converts the sorting algorithm Quicksort so that it operates on arrays of strings
 - Makefile
 - README
 

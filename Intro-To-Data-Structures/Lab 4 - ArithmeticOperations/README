@@ -3,7 +3,7 @@
 #------------------------------------
 
 Files being submitted:
-- ArithmeticOperations.c
+- ArithmeticOperations.c: Uses function pointers to evaluate arithmetic expressions
 - Makefile
 - README
 
