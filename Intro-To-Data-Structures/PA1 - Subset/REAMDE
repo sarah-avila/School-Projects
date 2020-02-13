@@ -3,7 +3,7 @@
 #---------------------------------
 
 Files being submitted:
-- Subset.c
+- Subset.c: Prints out all k-element subsets of the n-element set {1, 2, 3, ..., n} 
 - Makefile
 - README
 
