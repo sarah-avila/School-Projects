@@ -3,7 +3,7 @@
 #-----------------
 
 Files being submitted:
-- charType.c: Classifies characters in given input file into 4 categories: alphabetic characters, numeric characters, punctuation, and white space
+- charType.c: Classifies characters in given input file into 4 categories: alphabetic characters, numeric characters, punctuation, and white spaces
 - Makefile
 - README
 
