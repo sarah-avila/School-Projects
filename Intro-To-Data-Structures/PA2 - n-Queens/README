@@ -1,0 +1,12 @@
+#-------------------------------------
+# README for Programming Assignment 2
+#-------------------------------------
+
+Files being submitted:
+- Queens.c: Given an integer n, solves the n-Queens problem.
+- QueensTest.c: A test file for Queens.c
+- Makefile
+- README
+
+Further Notes:
+None
