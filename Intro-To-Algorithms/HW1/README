@@ -1,11 +1,11 @@
-// ----------------------------------------------------------------------------
+//-----------------------------------------------------------------------------
 // README for HW1
 //----------------------------------------------------------------------------
 
 Files submitted:
-- Bard.c
-- List.c
-- List.h
+- Bard.c: A client for the List ADT tha tcompletes a word analysis of Shakespeare's literary works
+- List.c: Linked List implementation of the List ADT
+- List.h: Header file for the List ADT
 - Makefile
 - README
 
