@@ -3,12 +3,12 @@ Programming Assignment 4
 ---------------------------
 
 Files being submitted:
-- Simulation.c
-- IntegerQueue.c
-- IntegerQueue.h
-- IntegerQueueTest.c
-- Job.c
-- Job.h
+- Simulation.c: Given a number of m jobs with specific arrival times and durations, prints the state of queues with n processors to the trace output file
+- IntegerQueue.c: An IntegerQueue ADT based on a linked list data structure
+- IntegerQueue.h: Header file for the IntegerQueue ADT
+- IntegerQueueTest.c: A test client for the IntegerQueue ADT
+- Job.c: Implementation file for an ADT with 3 integer quantities: arrival time , duration, finish time
+- Job.h: Header file for Job.c
 - Makefile
 - README
 
