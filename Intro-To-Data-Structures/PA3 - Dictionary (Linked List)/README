@@ -3,9 +3,9 @@ Programming Assignment 3
 ---------------------------
 
 Files being submitted:
-- Dictionary.c
-- Dictionary.h
-- DictionaryTest.c
+- Dictionary.c: Linked List implementation of the Dictionary ADT
+- Dictionary.h: Header file for the Dictionary ADT
+- DictionaryTest.c: A test client for the Dictionary ADT
 - Makefile
 - README
 
