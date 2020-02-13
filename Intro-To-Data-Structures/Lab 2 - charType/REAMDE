@@ -1,15 +1,13 @@
--bash-4.2$ vim README
-
 #-----------------
 # Lab 2 README
 #-----------------
 
 Files being submitted:
-- charType.c
+- charType.c: Classifies characters in given input file into 4 categories: alphabetic characters, numeric characters, punctuation, and white space
 - Makefile
 - README
 
-Further notes
+Further notes:
  None
 ~
 ~            
