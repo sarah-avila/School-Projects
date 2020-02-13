@@ -1,0 +1,11 @@
+// --------------------------
+// README for Practice-Test1
+// --------------------------
+
+In List.c:
+
+dedup(): Deletes the subsequent duplicate values from the list
+palindrome(): Checks if the list is a palindrome
+deletelast(): Deletes the last occurrence of integer n and returns a pointer to the deleted Node
+rotate(): Rotates the list by the given integer n
+reverse(): Reverses the first n integers of the List
