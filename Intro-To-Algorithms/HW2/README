@@ -1,0 +1,13 @@
+// --------------------------------------
+// README for nqueens.cpp
+// --------------------------------------
+
+Files to be submitted:
+nqueens.cpp
+Makefile
+README
+
+Further Notes:
+I discussed the logic behind the n-queens problem with Tom Cannon and
+parsing integers with Nicholas Tee. I also looked at an old assignment
+when I wrote similar code for CSE15 with Professor Tantalo (Fall 2019).

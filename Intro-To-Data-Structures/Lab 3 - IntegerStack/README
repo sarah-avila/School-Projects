@@ -1,0 +1,14 @@
+#--------------------------------------
+# Lab 3 README
+#--------------------------------------
+
+Files being submitted:
+- IntegerStack.c : Array based implementation of IntegerStack ADT in C (with array doubling)
+- IntegerStack.h : Header file for the IntegerStack ADT
+- IntegerStackTest.c: Test Client for the IntegerStack ADT
+- Makefile
+- README
+
+Further Notes:
+None
+~      
