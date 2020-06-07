@@ -1,0 +1,26 @@
+// ----------------------------
+// README for HW4
+// ----------------------------
+
+Files to be submitted:
+- sixdegrees.cpp: A client for the List ADT that parses a dataset into an adjacency list
+implementation of a graph and performs shortest path computations.
+- Makefile
+- README
+
+
+References:
+- Stack Overflow
+    https://stackoverflow.com/questions/18285385/how-can-i-initialize-a-vector-of-lists-in-c
+    https://stackoverflow.com/questions/19369376/outputting-a-vector-of-of-lists-in-c
+
+- GeeksforGeeks.org
+    https://www.geeksforgeeks.org/graph-and-its-representations/
+    https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/
+    https://www.geeksforgeeks.org/vector-in-cpp-stl/
+    https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/
+    https://www.geeksforgeeks.org/stack-in-cpp-stl/
+    https://www.geeksforgeeks.org/unordered_map-find-in-c-stl/
+
+- thispointer.com
+    https://thispointer.com/c-list-find-contains-how-to-search-an-element-in-stdlist/
