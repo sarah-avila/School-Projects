@@ -5,6 +5,7 @@
 Files to be submitted:
 - sixdegrees.cpp: A client for the List ADT that parses a dataset into an adjacency list
 implementation of a graph and performs shortest path computations.
+- cleaned_movielist.txt: A list of movies from IMDb with their corresponding actors and actresses. 
 - Makefile
 - README
 
