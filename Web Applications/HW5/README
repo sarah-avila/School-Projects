@@ -1,5 +1,0 @@
-# ----------------------
-# README for HW6
-# ----------------------
-
-In HW6, I made a py4web webpage that displayed a basic social media site with HTML, Bulma CSS, Python to connect to a database, and Javascript for front-end logic using a Vue framework. Users could add new posts and replies to posts, as well as delete replies they wrote.
