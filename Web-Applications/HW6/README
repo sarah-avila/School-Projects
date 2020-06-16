@@ -1,0 +1,5 @@
+# ----------------------
+# README for HW7
+# ----------------------
+
+In HW7, I made a py4web webpage that displayed another simple social media site using a Vue component implementation. Users could like or dislike posts.
