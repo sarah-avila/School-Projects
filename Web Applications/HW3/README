@@ -1,0 +1,5 @@
+# ----------------------
+# README for HW3
+# ----------------------
+
+In HW3, I made a py4web webpage that displayed a table of online products using HTML, Bulma CSS, and Python to connect to a database. Users could add products, delete products, and order them by price.

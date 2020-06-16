@@ -1,0 +1,7 @@
+# ----------------------
+# README for HW1
+# ----------------------
+
+In HW1, I completed various Python exercises using Google Notebook. I implemented a subclass of a Cache class, an efficient solution for computing the Fibonacci Sequence, and a decorator that returns a positive value.
+
+Here is the Google Notebook: https://colab.research.google.com/drive/1W0453yI8LHlj0R2zzntIAdCDWxOVN6BC
